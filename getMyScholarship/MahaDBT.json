@@ -6,7 +6,7 @@
             "ApplyLink": "https://mahadbt.maharashtra.gov.in/Login/Login?Length=5",
             "Category": [
                 {
-                    "Name": ["General"],
+                    "Name": ["General","OBC"],
                     "Income": [
                         {
                             "Amount": 800000,
